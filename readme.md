@@ -40,7 +40,7 @@
     ・IntelliJ Rubymine 0.5年
     
 ### 最近勉強中のもの
-    ・Next.js
+    ・Nuxt.js
     ・Typescript
     ・CIツール（CircleCI）
-    ・IAS（.ebextensions）
+    ・IaC（.ebextensions）

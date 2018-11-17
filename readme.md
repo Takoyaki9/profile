@@ -1,26 +1,25 @@
-
 2018.11.17時点
-###バックエンド
-    ・Ruby on Rails 1.5年
-    ・VB.NET 1年
+# バックエンド
+    ・Ruby(Rails) 1.5年
+    ・VB(.NET) 1年
 
-###DB
+### DB
     ・Oracle 1年
     ・Mysql  1年
 
-###テストフレームワーク
+### テストフレームワーク
     ・Rspec 0.5年
 
-###フロントエンド
+### フロントエンド
     ・Html/Css 1年
     ・Javascript（Vue.js） 1年
 
-###Webマーケティングツール
+### Webマーケティングツール
     ・Google Analytics 0.5年
     ・Google Tag Maneger 0.5年
     ・Google Optimizer 0.5年
 
-###インフラ/ホスティング
+### インフラ/ホスティング
     ・Docker 1年（開発環境でのみ使用）
     ・Heroku 1.5年
     ・Firebase 0.5年
@@ -35,12 +34,12 @@
       ・Route53
       ・Lambda
   
-###開発ツール
+### 開発ツール
     ・Git 1年
     ・VScode 1年
     ・IntelliJ Rubymine 0.5年
     
-###最近勉強中のもの
+### 最近勉強中のもの
     ・Next.js
     ・Typescript
     ・CIツール（CircleCI）
